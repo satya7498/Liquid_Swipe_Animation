@@ -1,6 +1,6 @@
 # animation_ui
 
-A new Flutter application.
+Liquid Swipe Animation ia a flutter project which use liquid fluid package to make the swipe between the pages of the app more interactive
 
 ## Getting Started
 
